@@ -1,8 +1,8 @@
 # Project com.zsalcedo/Pokedex
 
-Steps to run this project:
+Consumiendo API REST POKEMON
 
-1. Start your Docker daemon
-2. Execute `./buildAndRun.sh` (Linux/MacOs) or `buildAndRun.bat` (Windows)
-3. Wait until Open Liberty is up- and running (e.g. use `docker logs -f CONTAINER_ID`)
-4. Visit http://localhost:9080/resources/sample
+1. Empezar  verificando que se compile con el jdk8
+2. Limpiar y construir la proyecto Pokedex
+3. Ejecutar el metodo main para obtener el resultado
+4. El resultado se obtendra por medio de la consola
